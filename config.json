@@ -1,0 +1,8 @@
+{
+  "token": "MTUxOTAzNTM4NTg5ODg2MDYxNA.Gr0MZH.W5sWAfhRgQ4znJYYDcZBt1uvF6QOOwBtl70UDU",
+  "prefix": "!",
+  "max_file_size_mb": 8,
+  "temp_dir": "./tmp",
+  "output_dir": "./output",
+  "allowed_extensions": [".lua", ".txt", ".luac", ".source"]
+}
